@@ -1,4 +1,4 @@
-#include "ColorPair.hpp"
+#include "./include/ColorPair.hpp"
 
 // Constructor implementation
 ColorPair::ColorPair(const std::string& majorColor, const std::string& minorColor)
